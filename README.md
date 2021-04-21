@@ -42,7 +42,7 @@ Game ini dibangun menggunakan PyGame
 $ sudo apt-get install python3
 $ sudo apt-get install python3-pip
 $ pip3 install pygame
-$ git clone https://github.com/billalxcode/PocongRunner
+$ git clone https://github.com/muhammaddzaky/PocongRunner
 $ cd PocongRunner
 $ python3 PocongRunner.py
 Usage
